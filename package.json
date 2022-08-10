@@ -1,0 +1,27 @@
+{
+  "name": "xcss",
+  "version": "0.0.1",
+  "description": "Parser for xcss selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsbaser/xcss.git"
+  },
+  "keywords": [
+    "xcss",
+    "xpath",
+    "css",
+    "selector",
+    "parser",
+    "automation"
+  ],
+  "author": "wsbaser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wsbaser/xcss/issues"
+  },
+  "homepage": "https://github.com/wsbaser/xcss#readme"
+}
