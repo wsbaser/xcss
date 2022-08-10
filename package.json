@@ -1,5 +1,5 @@
 {
-  "name": "xcss",
+  "name": "xcss-parser",
   "version": "0.0.1",
   "description": "Parser for xcss selectors.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wsbaser/xcss.git"
+    "url": "git+https://github.com/wsbaser/xcss-parser.git"
   },
   "keywords": [
     "xcss",
@@ -21,7 +21,7 @@
   "author": "wsbaser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wsbaser/xcss/issues"
+    "url": "https://github.com/wsbaser/xcss-parser/issues"
   },
-  "homepage": "https://github.com/wsbaser/xcss#readme"
+  "homepage": "https://github.com/wsbaser/xcss-parser#readme"
 }

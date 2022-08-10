@@ -1,4 +1,4 @@
-export default class Xcss{
+export default class XcssParser{
     parse(xcssSelector) {
         if (!xcssSelector) {
             return null;
