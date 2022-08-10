@@ -1,1 +1,1 @@
-module.exports = require('./src/xcss');
+module.exports = require('./src/xcss-parser');
